@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "749484385453",
+    "firebase_url": "https://wannaapp-89caf.firebaseio.com",
+    "project_id": "wannaapp-89caf",
+    "storage_bucket": "wannaapp-89caf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749484385453:android:293541290d711fab801224",
+        "android_client_info": {
+          "package_name": "com.kalu.wannaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749484385453-o1l685m50ub398ete75a413libtl4qr8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kalu.wannaapp",
+            "certificate_hash": "0e2fae5b6f41855aa9e9f66a900f9f0f87996dc2"
+          }
+        },
+        {
+          "client_id": "749484385453-pv44o7r00b517mn4g0qou6e75jdejh1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCARbidcadkef6TsCX903ZtuYqJqGX2MMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749484385453-pv44o7r00b517mn4g0qou6e75jdejh1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
